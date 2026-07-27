@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://assets.vercel.com/image/upload/v1647366075/front/api-routes/hero-dark.png" alt="Hero Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+<img src="banner.png" alt="Hero Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/CoDx-ZeesH">
@@ -201,31 +201,6 @@ Hi, I'm **Mohammad Zeeshan**, a Computer Science Engineering student at Pranveer
 </div>
 
 ---
-
-## ✦ Problem Solving & Algorithms
-
-<div align="center">
-
-<!-- LeetCode Stats -->
-<img src="https://leetcard.jacoblin.cool/CodxZeesh?theme=transparent&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%" />
-
-</div>
-
----
-
-## ✦ Terminal & Vibes
-
-<div align="center">
-
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&textColor=ffffff" alt="Dev Quote" />
-
-<br /><br />
-
-<!-- Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400px" style="border-radius: 8px;" />
-
-</div>
 
 ---
 
