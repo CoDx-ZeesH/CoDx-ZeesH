@@ -32,7 +32,7 @@
 Hi, I'm **Mohammad Zeeshan**, a Computer Science Engineering student at Pranveer Singh Institute of Technology (PSIT), Kanpur. I am passionate about solving real-world problems by fusing Artificial Intelligence with Full Stack Development, all while creating spaces where students can learn, collaborate, and grow together.
 
 - 💻 **Currently Engineering:** AI Agents, Full Stack Platforms, and Developer Tools.
-- 🌐 **Community Leader:** Organizing technical events, hackathons, and networking meetups for GDGoC PSIT, CodeDay, Kanpur AI, UPAI.space, and Debug Community.
+- 🌐 **Community Leader:** Organizing technical events, hackathons, and networking meetups for CodeDay, Kanpur AI, UPAI.space.
 - 🎤 **Knowledge Sharing:** Active workshop speaker (Git & GitHub, AI Agents, Python, Web Dev).
 - ⚙️ **Under The Hood:** Focused on System Design, Data Structures & Algorithms, and AI Engineering.
 - 🚀 **Development Philosophy:** Beautiful, Scalable, Useful, Community-First, Minimal, and Fast.
@@ -169,27 +169,7 @@ Hi, I'm **Mohammad Zeeshan**, a Computer Science Engineering student at Pranveer
 
 ---
 
-## ✦ Code & Analytics
-
 <div align="center">
-
-<!-- GitHub Stats & Streak -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=CoDx-ZeesH&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoDx-ZeesH&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&ring=ffffff&fire=ffffff" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoDx-ZeesH&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa" alt="Top Languages" width="100%" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoDx-ZeesH&theme=transparent&hide_border=true&color=ffffff&line=a1a1aa&point=ffffff" alt="Activity Graph" width="100%" />
 
 <!-- Snake Contribution Animation -->
 <picture>
@@ -198,12 +178,4 @@ Hi, I'm **Mohammad Zeeshan**, a Computer Science Engineering student at Pranveer
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoDx-ZeesH/CoDx-ZeesH/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-</div>
-
----
-
----
-
-<div align="center">
-  <p><i>Make sure to configure the GitHub Action in your repository to generate the snake contribution graph SVG into the <code>/output</code> branch!</i></p>
 </div>
